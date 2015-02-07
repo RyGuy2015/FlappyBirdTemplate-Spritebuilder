@@ -17,7 +17,7 @@
 {
     // put update code here
     // Check to see if two seconds have passed
-    if (timeSInceObstacle > 2.0f)
+    if (timeSinceObstacle > 2.0f)
     {
         // Add a new obstacle
         [self addObstacle];
